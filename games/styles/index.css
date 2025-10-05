@@ -43,5 +43,8 @@ body {
   border-radius: 20px;
   color:#fff;
   font-size:50px;
-  background: skyblue;
+  background: linear-gradient(125deg,skyblue,orange);
+}
+#box button:hover{
+  background: linear-gradient(125deg,orange,skyblue);
 }
