@@ -61,8 +61,9 @@ h1{
 }
 
 #games img:hover {
-  border: 2px solid skyblue;
+  border: 2px solid orange;
   transform: scale(1.05);
+  cursor:pointer;
 }
 
 #games b {
